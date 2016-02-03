@@ -1,0 +1,28 @@
+name: The Freedom Tinker
+favicon: null
+layout_spectrum: 0.9266793339047581
+typography_spectrum: 0.05308643402531743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2865634928457439
+  lightness: 0.3267600703984499
+  saturation: 0.8138757962733507
+  rhythmicContrast: 0.9977424391545355
+purpose: []
