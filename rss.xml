@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[The Freedom Tinker]]></title>
         <description><![CDATA[The Freedom Tinker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-freedom-tinker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 22:23:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 01:03:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-freedom-tinker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42ac9e69-b682-4be5-ad09-1bca61321613.jpg">]]></description>
-            <link>undefinedf2476af5-2d7f-4a25-9dde-bb1e28789a11/index.html</link>
+            <link>https://thegrid.ai/the-freedom-tinker/f2476af5-2d7f-4a25-9dde-bb1e28789a11/index.html</link>
             <guid isPermaLink="false">f2476af5-2d7f-4a25-9dde-bb1e28789a11</guid>
             <pubDate>Wed, 03 Feb 2016 22:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d279e6a9-1b7d-424c-9dcd-6a7fabac8f57.jpg">]]></description>
+            <link>https://thegrid.ai/the-freedom-tinker/6098a80b-8558-4b61-97c1-809f37072cfe/index.html</link>
+            <guid isPermaLink="false">6098a80b-8558-4b61-97c1-809f37072cfe</guid>
+            <pubDate>Thu, 04 Feb 2016 01:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
