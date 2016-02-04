@@ -1,7 +1,7 @@
 name: The Freedom Tinker
 favicon: null
-layout_spectrum: 0.9266793339047581
-typography_spectrum: 0.05308643402531743
+layout_spectrum: 1
+typography_spectrum: 0.4194
 cta:
   domain: null
   bucket: null
